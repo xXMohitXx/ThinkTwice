@@ -27,15 +27,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here!_
->
-> ![ThinkTwice Light Mode](./screenshots/light-mode.png)
-> ![ThinkTwice Dark Mode](./screenshots/dark-mode.png)
-
----
-
 ## ⚙️ How It Works
 - **Type your message** in the box.
 - The app analyzes your text in real time using a local Detoxify NLP model.
